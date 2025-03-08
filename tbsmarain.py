@@ -205,9 +205,9 @@ def Zeek():
     time.sleep(0.10)
     print '\x1b[1;95m[0] ══BACK '
     time.sleep(0.10)
-    print '\x1b[1;96m ════RK'
+    print '\x1b[1;96m ════TA'
     time.sleep(0.10)
-    print '\x1b[1;97m════RED-MAFIA'
+    print '\x1b[1;97m════TABBU-ARAIN'
     time.sleep(0.10)
     print '\x1b[1;91m ════DONT COPY MY SCRIPT'
     time.sleep(0.10)
