@@ -201,19 +201,19 @@ def pilih_login():
 def Zeek():
     os.system('clear')
     print logo1
-    print '\x1b[1;93m[1] ══𝚂𝚃𝙰𝚁𝚃 𝙲𝙻𝙾𝙽𝙸𝙽𝙶  '
+   print '\x1b[1;93m[1] ══START CLONING  '
     time.sleep(0.10)
-    print '\x1b[1;92m[2] ══𝙴𝚇𝙸𝚃'
+    print '\x1b[1;92m[2] ══EXIT'
     time.sleep(0.10)
-    print '\x1b[1;95m[0] ══𝙱𝙰𝙲𝙺 '
+    print '\x1b[1;95m[0] ══BACK '
     time.sleep(0.10)
-    print '\x1b[1;96m════𝚃.𝙰'
+    print '\x1b[1;96m ════RK'
     time.sleep(0.10)
-    print '\x1b[1;97m════𝚃𝙰𝙱𝙱𝚄-𝙰𝚁𝙰𝙸𝙽'
+    print '\x1b[1;97m════RED-MAFIA'
     time.sleep(0.10)
-    print '\x1b[1;91m════𝙳𝙾𝙽'𝚃 𝙲𝙾𝙿𝚈 𝙼𝚈 𝚂𝙲𝚁𝙸𝙿𝚃'
+    print '\x1b[1;91m ════DONT COPY MY SCRIPT'
     time.sleep(0.10)
-    print '\x1b[1;94m════CP ID OPEN IN 3 DAYS'
+    print '\x1b[1;94m════CP ID OPEN AFTER 3 DAYS ENJOY'
    
     time.sleep(0.05)
     action()
