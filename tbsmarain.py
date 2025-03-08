@@ -135,10 +135,7 @@ logo2 = """
 ██║  ██║██║  ██║██║  ██║██║██║ ╚████║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
                                                             
-                                                   
-                         DON'T COPY MY SCRIPT
-                                      TABBU-ARAIN          
-                                        THNX (T.A)
+        
 ╔══──────────────────────────╗─══╗
 ║ OWNER     👑  TABBU ARAIN    ║║
 ║ GITHUB    👑  TABBU-ARAIN    ║║
