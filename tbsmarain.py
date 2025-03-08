@@ -22,7 +22,7 @@ try:
 except ImportError:
     os.system('pip2 install request')
     time.sleep(1)
-    os.system('Then type: python2 boss404')
+    os.system('Then type: python2 tabbu-old-crack')
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
@@ -381,5 +381,5 @@ def action():
     raw_input("\n\033[1;92m[\033[1;92mBack\033[1;95m]")
     login()
 
-if _Red-Mafia_ == '_main_':
+if _name_ == '_main_':
     login()
