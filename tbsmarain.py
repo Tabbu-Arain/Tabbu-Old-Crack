@@ -207,13 +207,13 @@ def Zeek():
     time.sleep(0.10)
     print '\x1b[1;95m[0] ══𝙱𝙰𝙲𝙺 '
     time.sleep(0.10)
-    print '\x1b[1;96m[3] ════𝚃.𝙰'
+    print '\x1b[1;96m════𝚃.𝙰'
     time.sleep(0.10)
-    print '\x1b[1;97m[4] ════𝚃𝙰𝙱𝙱𝚄-𝙰𝚁𝙰𝙸𝙽'
+    print '\x1b[1;97m════𝚃𝙰𝙱𝙱𝚄-𝙰𝚁𝙰𝙸𝙽'
     time.sleep(0.10)
-    print '\x1b[1;91m[5] ════DON'T COPY MY SCRIPT'
+    print '\x1b[1;91m════𝙳𝙾𝙽'𝚃 𝙲𝙾𝙿𝚈 𝙼𝚈 𝚂𝙲𝚁𝙸𝙿𝚃'
     time.sleep(0.10)
-    print '\x1b[1;94m[6] ════CP ID OPEN IN 3 DAYS'
+    print '\x1b[1;94m════CP ID OPEN IN 3 DAYS'
    
     time.sleep(0.05)
     action()
