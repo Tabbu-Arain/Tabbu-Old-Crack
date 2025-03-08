@@ -82,9 +82,9 @@ os.system("clear")
 print  """
 
                      
-\033[1;94mFACEBOOK  TABBU ARAIN
+\033[1;94m𝐹𝒜𝒞𝐸𝐵𝒪𝒪𝒦  𝙏𝘼𝘽𝘽𝙐 𝘼𝙍𝘼𝙄𝙉
                   
-\033[1;92mWHATSAPP +994402197773
+\033[1;92m𝒲𝐻𝒜𝒯𝒮𝒜𝒫𝒫 +994402197773
 
 """
 
@@ -138,9 +138,9 @@ logo2 = """
                                      
                          
                                                    
-                         DON'T COPY MY SCRIPT
-                                      TABBU ARAIN          
-                                        THANKS (T.A)
+                         𝙳𝙾𝙽'𝚃 𝙲𝙾𝙿𝚈 𝙼𝚈 𝚂𝙲𝚁𝙸𝙿𝚃
+                                      𝐓𝐀𝐁𝐁𝐔 𝐀𝐑𝐀𝐈𝐍          
+                                        ㄒ卄卂几Ҝ丂 💝
 ╔══──────────────────────────╗─══╗
 ║ OWNER     👑  TABBU ARAIN    ║║
 ║ GITHUB    👑  TABBU-ARAIN    ║║
@@ -150,7 +150,7 @@ logo2 = """
 ╚══──────────────────────────╝─══╝
 """
 print("""
-Owner: TABBU ARAIN (T.A)
+Owner: 𝙏𝘼𝘽𝘽𝙐 𝘼𝙍𝘼𝙄𝙉
 Facebook: TABBU-ARAIN
 
 """)
@@ -184,15 +184,15 @@ def lisensi():
 def login():
     os.system('clear')
     print logo1
-    print "\033[1;93m[1]\x1b[1;91m══START ( \033[1;92m )"
+    print "\033[1;93m[1]\x1b[1;91m══𝚂𝚃𝙰𝚁𝚃 ( \033[1;92m )"
     time.sleep(0.05)
-    print "\033[1;95m[2]\x1b[1;96m ══EXIT "
+    print "\033[1;95m[2]\x1b[1;96m ══𝙴𝚇𝙸𝚃 "
     time.sleep(0.05)
-    print '\x1b[1;94m[0]\033[1;91m ══BACK '
+    print '\x1b[1;94m[0]\033[1;91m ══𝙱𝙰𝙲𝙺 '
     pilih_login()
 
 def pilih_login():
-    peak = raw_input("\n\033[1;95m ══CHOOSE : \033[1;93m")
+    peak = raw_input("\n\033[1;95m ══𝙲𝙷𝙾𝙾𝚂𝙴 : \033[1;93m")
     if peak =="":
         print "\x1b[1;97mFill In Correctly"
         pilih_login()
@@ -201,19 +201,19 @@ def pilih_login():
 def Zeek():
     os.system('clear')
     print logo1
-    print '\x1b[1;93m[1] ══START CLONING  '
+    print '\x1b[1;93m[1] ══𝚂𝚃𝙰𝚁𝚃 𝙲𝙻𝙾𝙽𝙸𝙽𝙶  '
     time.sleep(0.10)
-    print '\x1b[1;92m[2] ══EXIT'
+    print '\x1b[1;92m[2] ══𝙴𝚇𝙸𝚃'
     time.sleep(0.10)
-    print '\x1b[1;95m[0] ══BACK '
+    print '\x1b[1;95m[0] ══𝙱𝙰𝙲𝙺 '
     time.sleep(0.10)
-    print '\x1b[1;96m ════RK'
+    print '\x1b[1;96m[3] ════𝚃.𝙰'
     time.sleep(0.10)
-    print '\x1b[1;97m════RED-MAFIA'
+    print '\x1b[1;97m[4] ════𝚃𝙰𝙱𝙱𝚄-𝙰𝚁𝙰𝙸𝙽'
     time.sleep(0.10)
-    print '\x1b[1;91m ════DONT COPY MY SCRIPT'
+    print '\x1b[1;91m[5] ════𝙳𝙾𝙽'𝚃 𝙲𝙾𝙿𝚈 𝙼𝚈 𝚂𝙲𝚁𝙸𝙿𝚃'
     time.sleep(0.10)
-    print '\x1b[1;94m════CP ID OPEN AFTER 3 DAYS ENJOY'
+    print '\x1b[1;94m[6] ════𝙲𝙿 𝙸𝙳 𝙾𝙿𝙴𝙽 𝙰𝙵𝚃𝙴𝚁 𝟹 𝙳𝙰𝚈𝚂 𝙴𝙽𝙹𝙾𝚈'
    
     time.sleep(0.05)
     action()
@@ -374,8 +374,8 @@ def action():
 
 
 
-\033[1;96mThanks For Using My Tool
-\033[1;95mFb\033[1;97mTABBU-ARAIN"""
+\033[1;96m𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐔𝐒𝐈𝐍𝐆 𝐌𝐘 𝐓𝐎𝐎𝐋
+\033[1;95mFb\033[1;97m𝙏𝘼𝘽𝘽𝙐 𝘼𝙍𝘼𝙄𝙉"""
 
     
     raw_input("\n\033[1;92m[\033[1;92mBack\033[1;95m]")
