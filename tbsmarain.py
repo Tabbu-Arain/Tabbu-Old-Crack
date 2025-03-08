@@ -148,7 +148,7 @@ logo2 = """
 ╚══──────────────────────────╝─══╝
 """
 print("""
-Owner: TABBU ARAIN (R.K)
+Owner: TABBU ARAIN (T.A)
 Facebook: TABBU-ARAIN
 
 """)
