@@ -148,8 +148,8 @@ logo2 = """
 ╚══──────────────────────────╝─══╝
 """
 print("""
-Owner: TABBU ARAIN (T.A)
-Facebook: TABBU-ARAIN
+Owner: TABBU-ARAIN (T.A)
+Facebook: TABBU ARAIN
 
 """)
 CorrectUsername = "TABBU"
@@ -205,9 +205,9 @@ def Zeek():
     time.sleep(0.10)
     print '\x1b[1;95m[0] ══BACK '
     time.sleep(0.10)
-    print '\x1b[1;96m ════T.A'
+    print '\x1b[1;96m ════RK'
     time.sleep(0.10)
-    print '\x1b[1;97m════TABBU-ARAIN'
+    print '\x1b[1;97m════RED-MAFIA'
     time.sleep(0.10)
     print '\x1b[1;91m ════DONT COPY MY SCRIPT'
     time.sleep(0.10)
@@ -366,7 +366,7 @@ def action():
     print 'Process Has Been Completed ...'
     print 'Total CP/Ok: '+str(len(oks))+'/'+str(len(cpb))
     print('Cloned Accounts Has Been Saved : save/cloned.txt')
-    jalan("Note : Your Offline Account Will Open After 3 to 4 Days")
+    jalan("Note : Your Offline account Will Open After 3 to 4 Days")
     print ''
     print """
 
