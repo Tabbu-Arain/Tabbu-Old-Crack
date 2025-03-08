@@ -110,16 +110,15 @@ logo1 = """
                                      
 
 ╔══──────────────────────────╗─══╗
-║ OWNER  👑  TABBU ARAIN       ║║
-║ GITHUB 👑  TABBU-ARAIN       ║║
-║ FACEBOOK 👑  TABBUARAIN      ║║
-║ WHATSAPP 👑  +994402197773   ║║
-║ NOTE 👑  USE FAST INTERNET   ║║
+║ OWNER     👑  TABBU ARAIN    ║║
+║ GITHUB    👑  TABBU-ARAIN    ║║
+║ FACEBOOK  👑  TABBUARAIN     ║║
+║ WHATSAPP  👑  +994402197773  ║║
+║ NOTE      👑  USE FAST NET   ║║
 ╚══──────────────────────────╝─══╝
 
 """
 logo2 = """
-
 
 
 ████████╗ █████╗ ██████╗ ██████╗ ██╗   ██╗
@@ -143,11 +142,11 @@ logo2 = """
                                       TABBU ARAIN          
                                         THANKS (T.A)
 ╔══──────────────────────────╗─══╗
-║ OWNER  👑  TABBU ARAIN       ║║
-║ GITHUB 👑  TABBU-ARAIN       ║║
-║ FACEBOOK 👑  TABBUARAIN      ║║
-║ WHATSAPP 👑  +994402197773   ║║
-║ NOTE 👑  USE FAST INTERNET   ║║
+║ OWNER     👑  TABBU ARAIN    ║║
+║ GITHUB    👑  TABBU-ARAIN    ║║
+║ FACEBOOK  👑  TABBUARAIN     ║║
+║ WHATSAPP  👑  +994402197773  ║║
+║ NOTE      👑  USE FAST NET   ║║
 ╚══──────────────────────────╝─══╝
 """
 print("""
