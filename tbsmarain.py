@@ -247,7 +247,7 @@ def action():
         action()
     print 50* '\033[1;94m-'
     xxx = str(len(id))
-    jalan ('\033[1;91m Total ids Accounts: '+xxx)
+    jalan ('\033[1;91mTotal ids Accounts: '+xxx)
     jalan ('\033[1;92mSim code you choose: '+c)
     jalan ("\033[1;93mWait  Start Cracking...")
     jalan ("\033[1;94mTo Stop Process Press Ctrl+Z")
@@ -379,7 +379,4 @@ def action():
 
     
     raw_input("\n\033[1;92m[\033[1;92mBack\033[1;95m]")
-    login() 
-          
-if _name_ == '_tabbu-old-crack_':
     login()
